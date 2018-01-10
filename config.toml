@@ -13,7 +13,7 @@ googleAnalytics = ""                                                            
 
 
 [Params]
-    gs_id           = "ab34c8"
+    gs_id           = "e945b6e8"
     subtitle        = "Photobox Group Security - Candidate Site"                # Subtitle of your site
     description     = " John Doe's Personal blog about everything"              # Description of your site
     opengraph       = true
