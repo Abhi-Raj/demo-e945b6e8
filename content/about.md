@@ -10,8 +10,8 @@ Also update the `config.toml' about section:
 
 {{< highlight toml >}}
 [Author]
-    name = "John Doe"
-    bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+    name = "FakerBlaker"
+    bio = "FakerBlaker is surfing the waves of the universe right now. Everyone is surfing the waves."
     avatar = "img/avatar.png"
 {{< /highlight >}}
 
