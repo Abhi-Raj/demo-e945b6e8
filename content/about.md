@@ -4,9 +4,7 @@ menu    : main
 weight  : 10
 ---
 
-This is where you add more details about you
-
-Also update the `config.toml' about section:
+I am FakerBlaker and I am obsessed with managing risk. I a bored with my position at PayPal and ready for a new challenge.
 
 {{< highlight toml >}}
 [Author]
