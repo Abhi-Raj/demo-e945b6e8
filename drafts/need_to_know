@@ -1,0 +1,40 @@
++---
+title   : need to know
+banner  : 
+date    : 2018-01-16
+images  : 
+author   : HarrieBickle
+---
+
+## What is going on?
+
+Here is what I undersand:
+The pages can be constructed on the fly e.g. 
+https://pbx-group-security.com/roles/
+
+is picking up selected pages from inside a particular folder --- becomes heading
+(https://github.com/project-cx/pbx-group-security/tree/master/content/roles)
+
+then grabbing the meta from those pages---- becomes table content
+(https://github.com/project-cx/pbx-group-security/tree/master/content/roles/permanent)
+
+If I inspect the page from the browser it appears as if the headings/table contents are hard content. Does this mean they are being compiled somewhere?
+
+## What I don't understand
+ok- this would be too big to fill in - so focus!
+
+If I look at the index for the the roles page I do not see the call for this
+data ...therefore this is happening at a higher level (??)- so how can I create a similar page?
+
+## How do I link to images?
+The reason I want to creat a similar page is 
+1) I need to include links to images
+2) If we are going to create a candidate workflow we will need a heirachial structure and therefore need to link to other pages
+3) To create how to (i.e how to use Git instead of MS word) I will need to link to other pages
+
+## Access rights
+Can I give to permission to submit to my clone/repo? i.e. so you can answer me here-rather than in comments.
+
+## Where should I go read/skill up?
+
+There is a fine balance for the techwriter/system design analyst. They do not need to do the code BUT they do need to understand how it implements. Is there somewhere you want to send me to read up and become less dense?
